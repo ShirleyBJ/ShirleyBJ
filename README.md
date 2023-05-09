@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shirley BERCHEL</h1>
 <h3 align="center">A passionate web developper</h3>
 
-- 🌱 I’m currently learning **ReactJS**
-
 - 📫 How to reach me **shirleyberchel@gmail.com**
-
-- ⚡ Fun fact **I think I am hilarious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
